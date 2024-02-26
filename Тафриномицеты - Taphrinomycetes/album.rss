@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Тафриномицеты - Taphrinomycetes</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>The Taphrinomycetes are a class of ascomycete fungi belonging to the subdivision Taphrinomycotina. It includes the single order Taphrinales, which includes 2 families, 8 genera and 140 species.</description>
+        <jalbum:absolutePath>https://fungarium.info/%D0%A2%D0%B0%D1%84%D1%80%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Taphrinomycetes/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://fungarium.info/%D0%A2%D0%B0%D1%84%D1%80%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Taphrinomycetes/%D0%A2%D0%B0%D1%84%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Taphrinales/album.rss" title="Тафриновые - Taphrinales" thumbnail="https://fungarium.info/%D0%A2%D0%B0%D1%84%D1%80%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Taphrinomycetes/%D0%A2%D0%B0%D1%84%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Taphrinales/%D0%A2%D0%B0%D1%84%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Taphrinaceae/%D0%A2%D0%B0%D1%84%D1%80%D0%B8%D0%BD%D0%B0%20%D1%87%D0%B5%D1%80%D1%91%D0%BC%D1%83%D1%85%D0%BE%D0%B2%D0%B0%D1%8F%20-%20Taphrina%20padi/thumbs/_lohusalu_park_near_beach-.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>
