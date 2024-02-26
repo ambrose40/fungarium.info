@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дождевик ежовый - Lycoperdon echinatum</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://fungarium.info/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Agaricomycetes/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricales/%D0%A8%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricaceae/%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA%20%D0%B5%D0%B6%D0%BE%D0%B2%D1%8B%D0%B9%20-%20Lycoperdon%20echinatum/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0000118</title>
+            <link>https://fungarium.info/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Agaricomycetes/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricales/%D0%A8%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricaceae/%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA%20%D0%B5%D0%B6%D0%BE%D0%B2%D1%8B%D0%B9%20-%20Lycoperdon%20echinatum/slides/fungi-0000118.html</link>
+            <pubDate>Thu, 06 Oct 2016 23:22:01 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://fungarium.info/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Agaricomycetes/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricales/%D0%A8%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricaceae/%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA%20%D0%B5%D0%B6%D0%BE%D0%B2%D1%8B%D0%B9%20-%20Lycoperdon%20echinatum/thumbs/fungi-0000118.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://fungarium.info/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Agaricomycetes/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricales/%D0%A8%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricaceae/%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA%20%D0%B5%D0%B6%D0%BE%D0%B2%D1%8B%D0%B9%20-%20Lycoperdon%20echinatum/slides/fungi-0000118.webp" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 02 Oct 2009 11:00:02 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0000118.webp</guid>
+        </item>
+    </channel>
+</rss>
