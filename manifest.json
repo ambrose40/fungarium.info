@@ -1,0 +1,9 @@
+{
+    "name": "Fungarium.INFO",
+    "short_name": "Fungarium",
+    "theme_color": "#d11850",
+    "background_color": "#ffffff",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+  }
