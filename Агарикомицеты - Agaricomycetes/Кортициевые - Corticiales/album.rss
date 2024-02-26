@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Кортициевые - Corticiales</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>The Corticiales are an order of fungi in the class Agaricomycetes. The order is mostly composed of corticioid fungi, but also includes one anomalous agaricoid species, Marchandiomphalina foliacea. Species within the order are generally saprotrophic, most of them wood-rotters, but several are parasitic on grasses or lichens. Those of economic importance include Waitea circinata, a pathogen of cereal crops, and Laetisaria fuciformis, the cause of red thread disease in turf grass.</description>
+        <jalbum:absolutePath>https://fungarium.info/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Agaricomycetes/%D0%9A%D0%BE%D1%80%D1%82%D0%B8%D1%86%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Corticiales/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://fungarium.info/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Agaricomycetes/%D0%9A%D0%BE%D1%80%D1%82%D0%B8%D1%86%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Corticiales/%D0%9A%D0%BE%D1%80%D1%82%D0%B8%D1%86%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Corticiaceae/album.rss" title="Кортициевые - Corticiaceae" thumbnail="https://fungarium.info/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Agaricomycetes/%D0%9A%D0%BE%D1%80%D1%82%D0%B8%D1%86%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Corticiales/%D0%9A%D0%BE%D1%80%D1%82%D0%B8%D1%86%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Corticiaceae/%D0%9A%D0%BE%D1%80%D1%82%D0%B8%D1%86%D0%B8%D1%83%D0%BC%20%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20-%20Laeticorticium%20roseum/thumbs/DSC09575.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>
