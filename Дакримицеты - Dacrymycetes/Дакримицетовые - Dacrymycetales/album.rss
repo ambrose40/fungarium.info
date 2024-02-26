@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дакримицетовые - Dacrymycetales</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>The Dacrymycetes are a class consisting of only one family of jelly fungi, which has imperforate parenthesomes and basidia that are usually branched. There are 9 genera and 101 species in the family Dacrymycetaceae.</description>
+        <jalbum:absolutePath>https://fungarium.info/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Dacrymycetes/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Dacrymycetales/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://fungarium.info/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Dacrymycetes/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Dacrymycetales/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Dacrymycetaceae/album.rss" title="Дакримицетовые - Dacrymycetaleae" thumbnail="https://fungarium.info/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Dacrymycetes/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Dacrymycetales/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Dacrymycetaceae/%D0%94%D0%B0%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D1%86%D0%B5%D1%81%20%D0%B8%D1%81%D1%87%D0%B5%D0%B7%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20-%20Dacrymyces%20stillatus/thumbs/fungi-0004161.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>

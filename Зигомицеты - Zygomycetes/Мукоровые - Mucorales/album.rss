@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мукоровые - Mucorales</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>The Mucorales is the largest and best studied order of zygomycete fungi. Members of this order are sometimes called pin molds. The term mucormycosis is now preferred for infections caused by molds belonging to the order Mucorales.</description>
+        <jalbum:absolutePath>https://fungarium.info/%D0%97%D0%B8%D0%B3%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Zygomycetes/%D0%9C%D1%83%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Mucorales/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://fungarium.info/%D0%97%D0%B8%D0%B3%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Zygomycetes/%D0%9C%D1%83%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Mucorales/%D0%A4%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Phycomycetaceae/album.rss" title="Фикомицетовые - Phycomycetaceae" thumbnail="https://fungarium.info/%D0%97%D0%B8%D0%B3%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Zygomycetes/%D0%9C%D1%83%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Mucorales/%D0%A4%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Phycomycetaceae/%D0%A1%D0%BF%D0%B8%D0%BD%D0%B5%D0%BB%D0%BB%D1%8E%D1%81%20%D1%84%D1%83%D0%B7%D0%B8%D0%B3%D0%B5%D1%80%20-%20Spinellus%20fusiger/thumbs/fungi-0004198.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>
